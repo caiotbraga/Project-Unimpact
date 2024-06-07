@@ -1,0 +1,73 @@
+.btn-roxo-e{
+	
+	background-color: #8453B3;
+	color: white;
+}
+
+.btn-roxo-e:hover{
+	background-color: #A373D1;
+}
+
+.btn-roxo-c{
+	background-color: #A373D1;
+	color: white;
+}
+
+.btn-roxo-c:hover{
+	background-color: #8453B3;
+}
+
+.icone-email{
+	background-image: url(../imagens/icon-email.png);
+	background-size: 20px;
+	background-repeat: no-repeat;
+	background-position: bottom 7px left 5px;
+	padding-left: 30px;
+}
+
+.icone-senha{
+	background-image: url(../imagens/icon_senha.png);
+	background-size: 20px;
+	background-repeat: no-repeat;
+	background-position: bottom 7px left 5px;
+	padding-left: 30px;
+}
+
+.tam-btn-entrar{
+	width: 250px;
+}
+
+.tam-btn-voltar{
+	width: 160px;
+}
+
+#footer_unicap{
+	background-color: #690013;
+}
+
+h3{
+	color: #8453B3;
+}
+
+p{
+	color: #8453B3;
+}
+
+html, body{
+	height: 100%;
+	margin: 0px;
+	padding: 0px;
+}
+
+body{
+	display: flex;
+	flex-direction: column;
+}
+
+footer{
+	flex-shrink: 0;
+}
+
+.conteudo{
+	flex: 1 0 auto;
+}
